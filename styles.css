@@ -1,0 +1,29 @@
+.interesting-fact {
+    font-style: italic;
+}
+
+.list-label {
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+.card, .info {
+    border: 1px solid #d0d0d0;
+    padding: 10px;
+}
+
+.card {
+    box-shadow: 8px 8px 5px 0px #d0d0d0;
+}
+
+body {
+    width: 322px;
+}
